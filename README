@@ -1,0 +1,4 @@
+A simple program to connect a TCP port to a serial port
+on a Raspberry Pi.
+
+TCP port number and serial port name are hard coded in the source.
